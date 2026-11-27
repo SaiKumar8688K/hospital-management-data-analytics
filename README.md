@@ -1,6 +1,6 @@
-# hospital-management-data-analytics
+#  Hospital Operations & Financial Performance Analysis
 End-to-end hospital operations and financial performance analysis using Excel, PostgreSQL, SQL and Power BI
-# Hospital Operations & Financial Performance Analysis
+
 
 ## Business Problem
 
